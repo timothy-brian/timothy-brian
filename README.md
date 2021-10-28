@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @timothy-brian
+- 👋 Hi, I’m Timothy Brian, you can call me Brian
 - 👀 I’m interested in Front-end, Back-end, UI/UX
 - 🌱 I’m currently learning  PHP, Laravel 8
 - 📫 How to reach me Instagram @_timothybrian & LinkedIn Timothy Brian
