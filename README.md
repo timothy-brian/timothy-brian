@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Timothy Brian, you can call me Brian
-- 👀 I’m interested in Front-end, Back-end, UI/UX
-- 🌱 I’m currently learning  React.js, Git, PHP, Laravel 8
+- 👀 I’m interested in Frontend 
+- 🌱 I’m currently learning  React.js, Git, PHP, Laravel
 - 📫 Reach me on LinkedIn https://www.linkedin.com/in/timothybrian/
 
 <!---
